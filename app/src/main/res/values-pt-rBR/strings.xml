@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="developer">Desenvolvido Por: Kaique Tavares</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="abasteca_com">Abasteça Com:</string>
+    <string name="resultado">Gasolina</string>
+</resources>

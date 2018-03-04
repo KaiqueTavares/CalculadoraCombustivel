@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">CalculadoraGasolina</string>
+    <string name="developer">Developer by: Kaique Tavares</string>
+    <string name="calcular">Calculate</string>
+    <string name="limpar">Clear</string>
+    <string name="abasteca_com">Fuel With:</string>
+    <string name="resultado">Gas</string>
+</resources>
